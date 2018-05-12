@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1904
     wikipedia: http://en.wikipedia.org/wiki/William_Hale_White
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15525#Miriam-s-Schooling-and-Other-Papers
 gutenberg_issued: '2005-04-02'
 gutenberg_type: Text
 identifiers:
